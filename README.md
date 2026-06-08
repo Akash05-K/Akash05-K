@@ -52,71 +52,31 @@ me = {
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 StudyMind AI</h3>
-      <a href="https://github.com/Akash05-K/StudyMind-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash05-K&repo=StudyMind-AI&theme=tokyonight&hide_border=true" width="100%"/>
-      </a>
-      <p>
-        An AI-powered study companion with interactive flashcards, quizzes, PDF upload, and progress tracking. Built with React + Node.js + ChromaDB for smart document-based learning.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logo=databricks&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI%2FML-blueviolet?style=flat-square&logo=openai&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏛️ Ward Connect</h3>
-      <a href="https://github.com/Akash05-K/Ward">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash05-K&repo=Ward&theme=tokyonight&hide_border=true" width="100%"/>
-      </a>
-      <p>
-        Civic governance platform for ward councillors — residents submit geo-tagged complaints, track real-time status via Socket.io, with Tamil/English bilingual support & PDF reports.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☁️ CloudPro</h3>
-      <a href="https://github.com/Akash05-K/Cloudpro">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash05-K&repo=Cloudpro&theme=tokyonight&hide_border=true" width="100%"/>
-      </a>
-      <p>
-        Production-ready multi-tenant SaaS project management platform with full data isolation, role-based access, analytics dashboards, Docker support, and Vercel + Render deployment.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/MERN-stack-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛒 SavoMart</h3>
-      <a href="https://github.com/Akash05-K/savomart-sde-intern-task-2026">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash05-K&repo=savomart-sde-intern-task-2026&theme=tokyonight&hide_border=true" width="100%"/>
-      </a>
-      <p>
-        SDE Intern task project for SavoMart — full-stack e-commerce solution with product listings, cart management, and order flow. Built as part of the 2026 internship assignment.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Intern%20Task-2026-orange?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-</table>
+## 🚀 Featured Projects
+
+### 🧠 StudyMind AI &nbsp;&nbsp;&nbsp; 🏛️ Ward Connect
+
+[![StudyMind AI](https://github-readme-stats.vercel.app/api/pin/?username=Akash05-K&repo=StudyMind-AI&theme=tokyonight&hide_border=true)](https://github.com/Akash05-K/StudyMind-AI)
+[![Ward Connect](https://github-readme-stats.vercel.app/api/pin/?username=Akash05-K&repo=Ward&theme=tokyonight&hide_border=true)](https://github.com/Akash05-K/Ward)
+
+> 🧠 **StudyMind AI** — AI-powered study companion with flashcards, quizzes, PDF uploads & progress tracking. Built with React + Node.js + ChromaDB.  
+> `React` `Node.js` `ChromaDB` `AI/ML`
+
+> 🏛️ **Ward Connect** — Civic governance app for ward councillors. Residents submit geo-tagged complaints, track real-time status via Socket.io, with Tamil/English support & PDF reports.  
+> `React` `Socket.io` `MongoDB` `Leaflet.js`
+
+---
+
+### ☁️ CloudPro &nbsp;&nbsp;&nbsp; 🛒 SavoMart
+
+[![CloudPro](https://github-readme-stats.vercel.app/api/pin/?username=Akash05-K&repo=Cloudpro&theme=tokyonight&hide_border=true)](https://github.com/Akash05-K/Cloudpro)
+[![SavoMart](https://github-readme-stats.vercel.app/api/pin/?username=Akash05-K&repo=savomart-sde-intern-task-2026&theme=tokyonight&hide_border=true)](https://github.com/Akash05-K/savomart-sde-intern-task-2026)
+
+> ☁️ **CloudPro** — Production-ready multi-tenant SaaS platform with full data isolation, RBAC, analytics dashboards, Docker support & Vercel + Render deployment.  
+> `MERN` `Docker` `JWT` `Recharts`
+
+> 🛒 **SavoMart** — Full-stack e-commerce solution built as SDE Intern Task 2026, with product listings, cart management, and order flow.  
+> `JavaScript` `Node.js` `Intern Task 2026`
 
 > 💡 *More experiments and side projects in the repos below — explore at your own risk!*
 
