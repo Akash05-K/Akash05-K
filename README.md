@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👾 Hey there! I'm [Your Name] 
+# 👾 Hey there! I'm AKASH K 
 ### Full Stack Dev • AI/ML Engineer • Professional Bug Creator 🐛
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+things+that+(mostly)+work+%F0%9F%94%A7;Teaching+machines+to+think+%F0%9F%A4%96;Shipping+features+%26+fixing+bugs+24%2F7;Coffee+%E2%98%95+%2B+Code+%3D+Magic+%E2%9C%A8)](https://git.io/typing-svg)
