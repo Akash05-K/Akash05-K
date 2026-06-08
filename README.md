@@ -103,10 +103,23 @@ me = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash05-K&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Akash05-K&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash05-K&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash05-K&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Akash05-K&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akash05-K&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
 ![GitHub Streak](https://streak-stats.demolab.com?user=Akash05-K&theme=tokyonight&hide_border=true)
 
 </div>
