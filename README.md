@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👾 Hey there! I'm AKASH K 
+# 👾 Hey there! I'm AKASH K
 ### Full Stack Dev • AI/ML Engineer • Professional Bug Creator 🐛
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+things+that+(mostly)+work+%F0%9F%94%A7;Teaching+machines+to+think+%F0%9F%A4%96;Shipping+features+%26+fixing+bugs+24%2F7;Coffee+%E2%98%95+%2B+Code+%3D+Magic+%E2%9C%A8)](https://git.io/typing-svg)
@@ -103,24 +103,21 @@ me = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akash05-K&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akash05-K&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash05-K&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akash05-K&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Akash05-K&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=Akash05-K&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akash05-K&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-![GitHub Streak](https://streak-stats.demolab.com?user=Akash05-K&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash05-K&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -130,7 +127,11 @@ me = {
 
 <div align="center">
 
-![Snake animation](https://github.com/Akash05-K/Akash05-K/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akash05-K/Akash05-K/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akash05-K/Akash05-K/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Akash05-K/Akash05-K/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
