@@ -52,11 +52,48 @@ me = {
 
 ## 🚀 Featured Projects
 
-[![StudyMind AI](https://github-readme-stats.vercel.app/api/pin/?username=Akash05-K&repo=StudyMind-AI&theme=tokyonight&hide_border=true)](https://github.com/Akash05-K/StudyMind-AI)
-[![Ward Connect](https://github-readme-stats.vercel.app/api/pin/?username=Akash05-K&repo=Ward&theme=tokyonight&hide_border=true)](https://github.com/Akash05-K/Ward)
+---
 
-[![CloudPro](https://github-readme-stats.vercel.app/api/pin/?username=Akash05-K&repo=Cloudpro&theme=tokyonight&hide_border=true)](https://github.com/Akash05-K/Cloudpro)
-[![SavoMart](https://github-readme-stats.vercel.app/api/pin/?username=Akash05-K&repo=savomart-sde-intern-task-2026&theme=tokyonight&hide_border=true)](https://github.com/Akash05-K/savomart-sde-intern-task-2026)
+### 🧠 [StudyMind AI](https://github.com/Akash05-K/StudyMind-AI)
+> An AI-powered study companion with interactive flashcards, quizzes, PDF upload, and progress tracking. Smart document-based learning powered by ChromaDB.
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+### 🏛️ [Ward Connect](https://github.com/Akash05-K/Ward)
+> Civic governance platform for ward councillors. Residents submit geo-tagged complaints, track real-time status, with Tamil/English bilingual support & PDF reports.
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+
+---
+
+### ☁️ [CloudPro](https://github.com/Akash05-K/Cloudpro)
+> Production-ready multi-tenant SaaS project management platform with full data isolation, role-based access, analytics dashboards, Docker support & Vercel + Render deployment.
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 🛒 [SavoMart](https://github.com/Akash05-K/savomart-sde-intern-task-2026)
+> Full-stack e-commerce solution with product listings, cart management, and order flow. Built as part of the SavoMart SDE Internship Task 2026.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Intern Task](https://img.shields.io/badge/Intern%20Task-2026-orange?style=for-the-badge)
+
+---
 
 > 💡 *More experiments and side projects in the repos below — explore at your own risk!*
 
