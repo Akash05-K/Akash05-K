@@ -141,6 +141,4 @@ me = {
 
 ### 💬 "First, solve the problem. Then, write the code." — John Johnson
 
-⭐ If you like what you see, drop a star on something! It keeps the motivation alive 🔥
-
 </div>
