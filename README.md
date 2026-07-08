@@ -13,7 +13,7 @@
 
 ```python
 me = {
-    "role":       ["Full Stack Developer", "AI/ML Engineer"],
+    "role":       ["Software Developer", "AI/ML Engineer"],
     "status":     "Currently turning ☕ into code",
     "superpower": "Making machines smarter & UIs prettier",
     "fun_fact":   "I debug with console.log and I'm not ashamed 🙃",
