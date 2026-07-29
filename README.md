@@ -13,11 +13,15 @@
 
 ```python
 me = {
-    "role":       ["Software Developer", "AI/ML Engineer"],
-    "status":     "Currently turning ☕ into code",
-    "superpower": "Making machines smarter & UIs prettier",
-    "fun_fact":   "I debug with console.log and I'm not ashamed 🙃",
-    "goal":       "Build stuff that people actually love using 🚀"
+    "name": "Me",
+    "role": ["Software Developer", "AI/ML Engineer"],
+    "status": "Still waiting for imposter syndrome to become an imposter.",
+    "strength": "Can explain recursion.",
+    "weakness": "Can't explain what this function does because I wrote it at 3 AM.",
+    "love_language": "git commit -m 'please work this time'",
+    "biggest_achievement": "Fixed a bug by deleting the code that caused it.",
+    "greatest_enemy": "The genius who wrote this code (also me).",
+    "life_goal": "Make enough money to pay someone else to debug my code."
 }
 ```
 
